@@ -1,8 +1,11 @@
 {
   "name": "gifpardy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "What is a command-line video-to-GIF maker?",
   "main": "index.js",
+  "bin": {
+    "gifpardy": "./index.js"
+  },
   "repository": "ngokevin/gifpardy",
   "keywords": [
     "gif",
