@@ -1,4 +1,4 @@
-# gifpardy
+# GIFPARDY
 
 What is a command-line video-to-GIF maker?
 
@@ -43,3 +43,13 @@ gifpardy calls a command that looks like this:
 ```sh
 ffmpeg -i in.mp4 -s 600x400 -pix_fmt rgb24 -r 7 -f gif - | gifsicle --optimize=3 --delay=6 > out.gif
 ```
+
+## Taking a Screen Capture
+
+Want to make a screen capture GIF, but don't know which screen recording tool
+to use?
+
+- On Windows, try [OBS Studio](https://obsproject.com/).
+- On OS X, use QuickTime Player's screen recording tool (`<cmd> + ^ + N`).
+
+Then run GIFPARDY on the output video.
