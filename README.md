@@ -52,4 +52,7 @@ to use?
 - On Windows, try [OBS Studio](https://obsproject.com/).
 - On OS X, use QuickTime Player's screen recording tool (`<cmd> + ^ + N`).
 
-Then run GIFPARDY on the output video.
+Then run GIFPARDY on the output video. For a final GIFPARDY, a GIF wcreated
+with GIFPARDY:
+
+![gifpardy](https://cloud.githubusercontent.com/assets/674727/24028189/55a3249c-0a8a-11e7-8232-468683e585d2.gif)
