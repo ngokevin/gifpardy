@@ -3,6 +3,9 @@ var exec = require('child_process').exec;
 var fs = require('fs');
 var program = require('commander');
 
+console.log('Let\'s play GIFPARDY!.');
+console.log('Note that GIFPARDY requires ffmpeg and gifsicle to be installed (https://github.com/ngokevin/gifpardy#system-dependencies)');
+
 program
   .arguments('<videoFile> [outFile]')
   .option('-r, --resolution [resolution]', 'GIF resolution [600x400]', '600x400')
