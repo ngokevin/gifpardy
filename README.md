@@ -27,7 +27,7 @@ gifpardy --resolution 1200x800 --delay 5 in.mp4 out.gif
 | Option           | Description                                                    | Default Value |
 |------------------|----------------------------------------------------------------|---------------|
 | -d, --delay      | How much time to wait between frames in hundreths of a second. | 6             |
-| -r, --resolution | GIF resolution.                                                | 600x400       |
+| -r, --resolution | GIF resolution.                                                | 900x600       |
 
 ## System Dependencies
 
