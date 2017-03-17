@@ -4,6 +4,12 @@ What is a command-line video-to-GIF maker?
 
 ![gifpardy](https://cloud.githubusercontent.com/assets/674727/24027740/06b1fa1e-0a87-11e7-8c1a-34a2a8402e21.png)
 
+## Installation
+
+```sh
+npm install -g gifpardy
+```
+
 ## Usage
 
 Path to source video is the only required argument.
