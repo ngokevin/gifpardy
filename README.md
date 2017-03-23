@@ -36,11 +36,11 @@ Requires ffmpeg and gifsicle.
 - [ffmpeg](https://ffmpeg.org/)
   - `brew install ffmpeg`
   - `sudo apt-get install ffmpeg`
-  - [Windows](https://ffmpeg.org/download.html#build-windows)
+  - `choco install ffmpeg`
 - [gifsicle](https://www.lcdf.org/gifsicle/)
   - `brew install gifsicle`
   - `sudo apt-get install gifsicle`
-  - [Windows](https://eternallybored.org/misc/gifsicle/)
+  - `choco install gifsicle`
 
 ## Under the Hood
 
