@@ -20,7 +20,7 @@ as a base.
 ```sh
 gifpardy in.mp4
 gifpardy in.mp4 out.gif
-gifpardy --r 320x240 --d 8 in.mp4
+gifpardy -r 320x240 -d 8 in.mp4
 gifpardy --resolution 1200x800 --delay 5 in.mp4 out.gif
 ```
 
