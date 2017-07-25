@@ -8,7 +8,7 @@ console.log('Note that GIFPARDY requires ffmpeg and gifsicle to be installed (ht
 
 program
   .arguments('<videoFile> [outFile]')
-  .option('-r, --resolution [resolution]', 'GIF resolution [900x600]', '900x600')
+  .option('-r, --resolution [resolution]', 'GIF resolution [1000x630]', '1000x630')
   .option('-d, --delay [delay]', 'Delay in between frames to control speed. Higher is slower. [6]', '6')
   .action(function doConversion (videoFile, outFile, options) {
     // Check video file.

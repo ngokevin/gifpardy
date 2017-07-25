@@ -1,6 +1,6 @@
 {
   "name": "gifpardy",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "What is a command-line video-to-GIF maker?",
   "main": "index.js",
   "bin": {
